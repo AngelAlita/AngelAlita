@@ -1,5 +1,9 @@
  Hi there 👋. I'm Chance Lee. 
 
+
+
++ ![sumy7](https://komarev.com/ghpvc/?username=AngelAlita)
++ ![sumy7](https://visitor-badge.glitch.me/badge?page_id=AngelAlita.profile)
 <!--
 **AngelAlita/AngelAlita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
