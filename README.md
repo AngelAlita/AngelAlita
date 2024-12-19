@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 I’m currently working on something that may be meaningful.
-- 🌱 I’m currently learning Artificial Intelligence.
+- 🌱 I’m currently learning Artificial Intelligence, I hope to become a “transformer” expert.
 - 💬 Ask me everything, if I can help you.
 - 🐈 I like Chiikawa; such cute things are very healing to me.
 - 😄 Through the darkest night, the dawn will always come.
