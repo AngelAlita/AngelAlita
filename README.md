@@ -7,8 +7,18 @@
 
 - 🔭 I’m currently working on something that may be meaningful.
 - 🌱 I’m currently learning Artificial Intelligence.
+- 💬 Ask me everything, if I can help you.
 - 🐈 I like Chiikawa; such cute things are very healing to me.
 - 😄 Through the darkest night, the dawn will always come.
+
+
+ <h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Java | C++  
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL 
+- 🔧 &nbsp; PyCharm | Visual Studio code | IDLE | Git
+
 
 ![](https://github-readme-stats.vercel.app/api?username=AngelAlita&show_icons=true&theme=transparent)
 
