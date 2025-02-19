@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on something that may be meaningful.
+- 🛡️ I’m currently focus on AI Security.
 - 🌱 I’m currently learning Artificial Intelligence, I hope to become a “transformer” expert.
 - 🤗 If you’re looking for teammates for Kaggle and don’t mind that I’m a beginner, I’d be happy to join you.
 - 💬 Ask me everything, if I can help you.
