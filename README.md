@@ -5,12 +5,12 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🛡️ I’m currently focus on AI Security(VLM Jailbreak Attack & Defense).
+- 🛡️ I’m currently focus on **AI Security(VLM Jailbreak Attack & Defense)**.
 - 🌱 I’m currently learning Artificial Intelligence, I hope to become a “transformer” expert.
 - 🤗 If you’re looking for teammates for Kaggle and don’t mind that I’m a beginner, I’d be happy to join you.
 - 💬 Ask me everything, if I can help you.
 - 📫 How to reach me: leeachance6@gmail.com
-- 🐈 I like Chiikawa; such cute things are very healing to me.
+- 🐈 I like **Chiikawa**; such cute things are very healing to me.
 - 😄 Through the darkest night, the dawn will always come.
 
 
