@@ -13,9 +13,8 @@
 - 😄 Through the darkest night, the dawn will always come.
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAlita&layout=compact&theme=transparent)
 
 
-![](https://github-readme-stats.vercel.app/api?username=AngelAlita&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAlita&layout=compact&theme=light)
+![AngelAlita's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelAlita&show_icons=true&theme=transparent)
 
