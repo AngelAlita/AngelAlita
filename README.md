@@ -11,6 +11,7 @@
 - 📫 How to reach me: leeachance6@gmail.com
 - 🐈 I like **Chiikawa**; such cute things are very healing to me.
 - 😄 Through the darkest night, the dawn will always come.
+- For more details, you can visit my academic home page https://AngelAlita.github.io/.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAlita&layout=compact&theme=transparent)
