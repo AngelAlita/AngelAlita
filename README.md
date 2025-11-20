@@ -14,8 +14,3 @@
 - For more details, you can visit my academic home page https://AngelAlita.github.io/.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAlita&layout=compact&theme=transparent)
-
-
-![AngelAlita's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelAlita&show_icons=true&theme=transparent)
-
