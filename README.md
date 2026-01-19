@@ -1,7 +1,7 @@
 <h2> Hey there!<img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/Hi.gif" width="30px"></h2>
 <img align="right" alt="GIF" src="chiikawa.avif.webp" width="500"/>
 
-![visitors](https://komarev.com/ghpvc/?username=AngelAlita)
+![visitors](https://komarev.com/ghpvc/?username=AngelAlita) ![Total stars](https://img.shields.io/github/stars/AngelAlita?style=flat)
 
 <h3> 👨🏻‍💻 About Me </h3>
 
